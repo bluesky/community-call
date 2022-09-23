@@ -12,8 +12,8 @@ _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and 
 * 2022-09-15: Callum Forrester (Diamond) on plans for Ophyd 2.0
 * 2022-09-22: Dmitri Gavrilov (NSLS-II) with a demo of latest Queueserver and related GUI capabilities
 * 2022-09-29: Dan Allan (NSLS-II) on Tiled status and plans
-* 2022-10-06: Will Smith (BESSY II) sharing his team's work with GUIs and Bluesky
-* 2022-10-13: Roundtable discussion about GUI developments, current projects and planned directions
+* 2022-10-06: Roundtable discussion about GUI developments, current projects and planned directions
+* 2022-10-13: Will Smith (BESSY II) sharing his team's work with GUIs and Bluesky
 
 ## Past Topics and Talks
 
