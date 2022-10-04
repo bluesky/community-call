@@ -9,14 +9,15 @@ weekly, alternating the time every other week to suit different time zones.
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
 
-* 2022-10-06: Roundtable discussion about GUI developments, current projects and planned directions
+* 2022-10-06: [Bye week --- No meeting]
 * 2022-10-13: Will Smith (BESSY II) sharing his team's work with GUIs and Bluesky
-* 2022-10-20: (TBD)
+* 2022-10-20: Tanny Chavez (ALS) on Dash Apps
 * 2022-10-27: Tom Cobb (Diamond) on plans for hardware-triggered fly scanning on Ophyd 2.0
+* 2022-11-03: Roundtable discussion about GUI developments, current projects and planned directions
 
 ## Past Topics and Talks
 
-* 2022-09-29: Dan Allan (NSLS-II) on Tiled status and plans
+* 2022-09-29: Dan Allan (NSLS-II) on Tiled and the Databroker Roadmap
 * 2022-09-22: Dmitri Gavrilov (NSLS-II) with a demo of latest Queueserver and related GUI capabilities
 * 2022-09-15: Callum Forrester (Diamond) on plans for Ophyd 2.0
 
