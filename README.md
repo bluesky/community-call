@@ -18,7 +18,7 @@ _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and 
 ## Past Topics and Talks
 
 * 2022-09-29: Dan Allan (NSLS-II) on Tiled and the Databroker Roadmap ([slides](https://brookhavenlab-my.sharepoint.com/:p:/g/personal/dallan_bnl_gov/EcjwRM7ROvhAvsPYZM_rYewBEjWpGF4q-OZ34-kjyZwkow?e=EtoxKX))
-* 2022-09-22: Dmitri Gavrilov (NSLS-II) with a demo of latest Queueserver and related GUI capabilities
+* 2022-09-22: Dmitri Gavrilov (NSLS-II) with a demo of latest Queueserver and related GUI capabilities ([slides](https://brookhavenlab-my.sharepoint.com/:b:/g/personal/dallan_bnl_gov/ESnPb-qhDX1NhLiy4Xgyr50BeeEuzm2HJAHO1WI94rxT-g?e=aP14rS))
 * 2022-09-15: Callum Forrester (Diamond) on plans for Ophyd 2.0
 
 _A similar group has been meeting since 2017 but this page only started in September 2022._
