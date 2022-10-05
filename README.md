@@ -17,7 +17,7 @@ _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and 
 
 ## Past Topics and Talks
 
-* 2022-09-29: Dan Allan (NSLS-II) on Tiled and the Databroker Roadmap
+* 2022-09-29: Dan Allan (NSLS-II) on Tiled and the Databroker Roadmap ([slides](https://brookhavenlab-my.sharepoint.com/:p:/g/personal/dallan_bnl_gov/EcjwRM7ROvhAvsPYZM_rYewBEjWpGF4q-OZ34-kjyZwkow?e=EtoxKX))
 * 2022-09-22: Dmitri Gavrilov (NSLS-II) with a demo of latest Queueserver and related GUI capabilities
 * 2022-09-15: Callum Forrester (Diamond) on plans for Ophyd 2.0
 
