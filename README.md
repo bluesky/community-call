@@ -12,6 +12,7 @@ _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and 
 * 2022-10-20: Tanny Chavez (ALS) on Dash Apps
 * 2022-10-27: Tom Cobb (Diamond) on plans for hardware-triggered fly scanning on Ophyd 2.0
 * 2022-11-03: Roundtable discussion about GUI developments, current projects and planned directions
+* 2022-11-10: Simon Heybrook on Scipp for multi-dimensional labeled data
 
 ## Past Topics and Talks
 
