@@ -9,8 +9,11 @@ weekly, alternating the time every other week to suit different time zones.
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
 
-* 2022-11-03: NO MEETING
-* 2022-11-10: Simon Heybrook on Scipp for multi-dimensional labeled data
+* 2022-11-10: NO MEETING
+* 2022-11-17: Dan Allan on Adventures in Authentication
+* 2022-11-24: NO MEETING (US Thanksgiving Holiday)
+* 2022-12-01: TBD
+* 2022-12-08: Simon Heybrook on Scipp for multi-dimensional labeled data
 
 ## Past Topics and Talks
 
