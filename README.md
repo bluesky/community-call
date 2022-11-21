@@ -9,14 +9,13 @@ weekly, alternating the time every other week to suit different time zones.
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
 
-* 2022-11-10: NO MEETING
-* 2022-11-17: Dan Allan on Adventures in Authentication
 * 2022-11-24: NO MEETING (US Thanksgiving Holiday)
-* 2022-12-01: TBD
-* 2022-12-08: Simon Heybrook on Scipp for multi-dimensional labeled data
+* 2022-12-01 18:00 NYC: Clinton Roy on Ophyd's PVPositionComparator
+* 2022-12-08 10:30 NYC: Simon Heybrook on Scipp for multi-dimensional labeled data
 
 ## Past Topics and Talks
 
+* 2022-11-17: Dan Allan on Adventures in Authentication
 * 2022-10-27: Tom Cobb (Diamond) on plans for hardware-triggered fly scanning on Ophyd 2.0 (recording to be posted soon)
 * 2022-10-20: Tanny Chavez (ALS) on Dash Apps (recording to be posted soon)
 * 2022-10-13: Will Smith (BESSY II) sharing his team's work with GUIs and Bluesky (recording to be posted soon)
