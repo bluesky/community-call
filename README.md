@@ -13,6 +13,7 @@ _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and 
 
 ## Past Topics and Talks
 
+* 2023-04-20 : A discsussion on serving live data through a web-client [video](https://nubes.helmholtz-berlin.de/s/N3yDgBddJFAXaEC)
 * 2022-12-08 10:30 NYC: Simon Heybrook on Scipp for multi-dimensional labeled data
 * 2022-12-01 18:00 NYC: Clinton Roy on Ophyd's PVPositionComparator
 * 2022-11-17: Dan Allan on Adventures in Authentication
