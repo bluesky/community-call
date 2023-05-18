@@ -8,12 +8,13 @@ weekly, alternating the time every other week to suit different time zones.
 ## Upcoming Topics and Talks
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
-
-* 2022-01-26 Klaus Wakonig on Beamline Experiment Control Prototyping at PSI
+* 2023-06-08 10:30 NYC: Kesavan on Label-based de novo modeller for DNA damage responses
+* 2023-06-22 18:00 NYC: Mark Wolfman on Bluesky at APS s25
 
 ## Past Topics and Talks
 
-* 2023-04-20 : A discsussion on serving live data through a web-client [video](https://nubes.helmholtz-berlin.de/s/N3yDgBddJFAXaEC)
+* 2023-04-20: A discsussion on serving live data through a web-client [video](https://nubes.helmholtz-berlin.de/s/N3yDgBddJFAXaEC)
+* 2022-01-26 Klaus Wakonig on Beamline Experiment Control Prototyping at PSI
 * 2022-12-08 10:30 NYC: Simon Heybrook on Scipp for multi-dimensional labeled data
 * 2022-12-01 18:00 NYC: Clinton Roy on Ophyd's PVPositionComparator
 * 2022-11-17: Dan Allan on Adventures in Authentication
