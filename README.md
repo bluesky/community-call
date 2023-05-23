@@ -8,6 +8,7 @@ weekly, alternating the time every other week to suit different time zones.
 ## Upcoming Topics and Talks
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
+* 2023-06-12 10:30 NYC: Sebastian Sachse on using [plan annotation](https://blueskyproject.io/bluesky-queueserver/plan_annotation.html) to generate GUI widgets
 * 2023-06-08 10:30 NYC: Kesavan on Label-based de novo modeller for DNA damage responses
 * 2023-06-22 18:00 NYC: Mark Wolfman on Bluesky at APS s25
 
