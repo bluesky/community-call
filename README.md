@@ -9,7 +9,7 @@ weekly, alternating the time every other week to suit different time zones.
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
 
-* 2023-11-28 11:00 NYC: Abdulrhman Moshantaf on using bluesky with catalytic reactors.
+* 2023-11-28 11:00 NYC: Abdulrhman Moshantaf on using bluesky with catalytic reactors. [link](https://helmholtz-berlin-de.zoom-x.de/j/67191413380)
 
 ## Past Topics and Talks
 
