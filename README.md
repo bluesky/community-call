@@ -8,7 +8,7 @@ weekly, alternating the time every other week to suit different time zones.
 ## Upcoming Topics and Talks
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
-
+* 2024-02-29 15:00 NYC: Stephen Mudie Bluesky at Australian Synchrotron and web client development [zoom link](https://helmholtz-berlin-de.zoom-x.de/j/69414604164)
 
 
 ## Past Topics and Talks
