@@ -8,10 +8,9 @@ weekly, alternating the time every other week to suit different time zones.
 ## Upcoming Topics and Talks
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
-* 2024-02-29 15:00 NYC: Stephen Mudie Bluesky at Australian Synchrotron and web client development [zoom link](https://helmholtz-berlin-de.zoom-x.de/j/69414604164)
-
 
 ## Past Topics and Talks
+* 2024-02-29 15:00 NYC: Stephen Mudie Bluesky at Australian Synchrotron and web client development [recording](https://helmholtz-berlin-de.zoom-x.de/rec/share/_IVFeUMYlC8HcZYxJp9VxxGEY36GqsMpVP41R8XBgsph-6YzxFLU_AO1-jKTsSMb.TvGXecuf1Jz7Hlui) password: `7WB5&GVe`
 * 2023-11-28 11:00 NYC: Abdulrhman Moshantaf on using bluesky with catalytic reactors. [recording](https://helmholtz-berlin-de.zoom-x.de/rec/share/nf3KJc-hAv_kD8B63_kZybrne_yun6ZvgaR6JfUlqyvvskchl8vyHi4lZdTUwPk.JdbuZDJR4WTpVmPi) password: `3A&M.Cjh` [slides](https://hope.helmholtz-berlin.de/files/index.php/s/ZNtmFCeEaYypGXR)
 * 2023-06-22 18:00 NYC: Mark Wolfman on Bluesky at APS s25
 * 2023-06-12 10:30 NYC: Sebastian Sachse on using [plan annotation](https://blueskyproject.io/bluesky-queueserver/plan_annotation.html) to generate GUI widgets:  [slides](https://nubes.helmholtz-berlin.de/s/Qs7jRa54ZY7CE3j), [video](https://helmholtz-berlin-de.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=eu02&componentName=need-password&meetingId=gT4rpGszfRJtX46rFS1q8pA1dgI8LgbUXZT9szhZVwbVFT8OV1kDzEzCt5Ly0N-V.OS8-YeFWkrYs13ID&originRequestUrl=https%3A%2F%2Fhelmholtz-berlin-de.zoom.us%2Frec%2Fshare%2Fw0iQ4MLK4isTTaiIhBnS8PjJhdaT43ZBgPI3LehZXy9cyyGCsMc-8ZMvwoPKTebI.6MtSnC01YGb5-iR5) password: `5R*xP0s$`
