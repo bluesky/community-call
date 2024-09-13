@@ -9,7 +9,7 @@ weekly, alternating the time every other week to suit different time zones.
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
 
-* 2024-09-13 18:00 NYC: Wiebke Koepp on Web-based User Interfaces and Data Infrastructure for Autonomous Experiments and Machine Learning Workflows
+* 2024-09-17 18:00 NYC: Wiebke Koepp on Web-based User Interfaces and Data Infrastructure for Autonomous Experiments and Machine Learning Workflows
 
 ## Past Topics and Talks
 * 2024-07-18: Udai Singh from DESY presents his work on integrating bliss data with Bluesky and using Daiquri [recording](https://helmholtz-berlin-de.zoom-x.de/rec/share/jqdTdh501yR-Ngb9JM0PZsKTg7dqGvhWk8lpwNomYbh1fWMxwf7GMsqWY_KYleBE.uEPd1zrPzPR1rZKp?startTime=1721311336000) password: `wbm2eM&7`
