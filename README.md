@@ -2,8 +2,7 @@
 
 A call among maintainers and users of Bluesky and related projects like EPICS, PyDM, etc.
 
-[**Calendar**](https://calendar.google.com/calendar/u/0/embed?src=7aolj23t540871bsu27ikei5i8@group.calendar.google.com&ctz=America/New_York) --- We meet
-weekly, alternating the time every other week to suit different time zones.
+[**Calendar**](https://calendar.google.com/calendar/u/0/embed?src=7aolj23t540871bsu27ikei5i8@group.calendar.google.com&ctz=America/New_York) --- We meet once or twice a month, alternating the time to suit different time zones.
 
 ## Upcoming Topics and Talks
 
