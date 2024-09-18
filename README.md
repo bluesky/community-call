@@ -8,9 +8,9 @@ A call among maintainers and users of Bluesky and related projects like EPICS, P
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
 
-* 2024-09-17 18:00 NYC: Wiebke Koepp on Web-based User Interfaces and Data Infrastructure for Autonomous Experiments and Machine Learning Workflows
 
 ## Past Topics and Talks
+* 2024-09-17 18:00 NYC: Wiebke Koepp on Web-based User Interfaces and Data Infrastructure for Autonomous Experiments and Machine Learning Workflows [recording](https://bnl.zoomgov.com/rec/share/Oq2XnCYH_o17ECTDxnlbyYKpWKjoLLjYa_KhfLF2mtuzSXTE1liZuPx7Vq1uxCu3.iVCSOFE538lgM3ma) passcode: `#g0=MAnA`
 * 2024-07-18: Udai Singh from DESY presents his work on integrating bliss data with Bluesky and using Daiquri [recording](https://helmholtz-berlin-de.zoom-x.de/rec/share/jqdTdh501yR-Ngb9JM0PZsKTg7dqGvhWk8lpwNomYbh1fWMxwf7GMsqWY_KYleBE.uEPd1zrPzPR1rZKp?startTime=1721311336000) password: `wbm2eM&7`
 * 2024-02-29 15:00 NYC: Stephen Mudie Bluesky at Australian Synchrotron and web client development [recording](https://helmholtz-berlin-de.zoom-x.de/rec/share/_IVFeUMYlC8HcZYxJp9VxxGEY36GqsMpVP41R8XBgsph-6YzxFLU_AO1-jKTsSMb.TvGXecuf1Jz7Hlui) password: `7WB5&GVe`
 * 2023-11-28 11:00 NYC: Abdulrhman Moshantaf on using bluesky with catalytic reactors. [recording](https://helmholtz-berlin-de.zoom-x.de/rec/share/nf3KJc-hAv_kD8B63_kZybrne_yun6ZvgaR6JfUlqyvvskchl8vyHi4lZdTUwPk.JdbuZDJR4WTpVmPi) password: `3A&M.Cjh` [slides](https://hope.helmholtz-berlin.de/files/index.php/s/ZNtmFCeEaYypGXR)
