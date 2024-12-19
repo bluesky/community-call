@@ -10,6 +10,7 @@ _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and 
 
 
 ## Past Topics and Talks
+* 2024-12-19 10:00 NYC: Devin Burke (DESY) on Tango integration in Ophyd-Async [recording](https://bnl.zoomgov.com/rec/share/zOrqwF2dt1pmt7mx8jUny8E8jYae8ZGNGXhPoXzGpxRVXw_sVUYB2grU0ZysM8qD.V-kjKMom0oy1jwbj) passcode: `&@6pF+$2`
 * 2024-10-22 17:00 Berlin: Zachary Arthur on using Bokeh to make tools for visualising previous measurements and interacting with the queueserver. [recording](https://helmholtz-berlin-de.zoom-x.de/rec/share/iW_O8mCV_is5PZ05BjRg7FbLEFBFa8sDuQYSf9AF7Klhmf7XmuHvMXHsVCP6sJE-.psE-tpS2_JzTFsTl) passcode: `.S^BD2wS`
 * 2024-09-17 18:00 NYC: Wiebke Koepp on Web-based User Interfaces and Data Infrastructure for Autonomous Experiments and Machine Learning Workflows. [recording](https://bnl.zoomgov.com/rec/share/Oq2XnCYH_o17ECTDxnlbyYKpWKjoLLjYa_KhfLF2mtuzSXTE1liZuPx7Vq1uxCu3.iVCSOFE538lgM3ma) passcode: `#g0=MAnA`
 * 2024-07-18: Udai Singh from DESY presents his work on integrating bliss data with Bluesky and using Daiquri [recording](https://helmholtz-berlin-de.zoom-x.de/rec/share/jqdTdh501yR-Ngb9JM0PZsKTg7dqGvhWk8lpwNomYbh1fWMxwf7GMsqWY_KYleBE.uEPd1zrPzPR1rZKp?startTime=1721311336000) password: `wbm2eM&7`
