@@ -8,6 +8,7 @@ A call among maintainers and users of Bluesky and related projects like EPICS, P
 
 _See [calendar](https://tinyurl.com/BlueskyCommunityCallCalendar) for times and Zoom links._
 
+* 2025-01-21 15:00 Berlin: Ana Oliveira on Bluesky and Flyscanning at SIRIUS, the Brazilian Synchrotron. 
 
 ## Past Topics and Talks
 * 2024-12-19 10:00 NYC: Devin Burke (DESY) on Tango integration in Ophyd-Async [recording](https://bnl.zoomgov.com/rec/share/zOrqwF2dt1pmt7mx8jUny8E8jYae8ZGNGXhPoXzGpxRVXw_sVUYB2grU0ZysM8qD.V-kjKMom0oy1jwbj) passcode: `&@6pF+$2`
